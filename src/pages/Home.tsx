@@ -13,7 +13,7 @@ const Home: React.FC<RouteComponentProps> = (): JSX.Element => {
   return (
     <section>
       <h1 className={titleStyle}>Welcome!</h1>
-      <Link to="/about">Go to about</Link>
+      <Link to="/about" data-testid="aboutLink">Go to about</Link>
 
       <ErrorBoundary>
         <TestError />

@@ -16,7 +16,7 @@ See `package.json`
 
 ## Tasks
 
-### Task 1
+### Task 1 -  Done!
 
 Complete the tests with `testing-library` inside `Home.test.tsx`, `About.test.tsx`, and `LayoutContainer.test.tsx`.
 
@@ -24,7 +24,7 @@ Each file has tests that are empty. Fill each test out to match what is expected
 
 Run `yarn test` to test.
 
-### Task 2
+### Task 2 - Done!
 
 Inside of `reducers/sample.ts`, you will see `type SampleAction = unknown`.
 
