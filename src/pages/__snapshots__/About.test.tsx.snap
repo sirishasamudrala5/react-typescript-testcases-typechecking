@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`clicks button and fires increment counter 1`] = `undefined`;
+
+exports[`clicks button and fires increment counter 2`] = `undefined`;
+
+exports[`renders <About /> page 1`] = `undefined`;

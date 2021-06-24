@@ -13,7 +13,7 @@ const About: React.FC<RouteComponentProps> = (): JSX.Element => {
     <section>
       <>
         <h1>About Page</h1>
-        <button onClick={() => dispatch(incrementOne)}>Increment</button>
+        <button onClick={() => dispatch(incrementOne)} >Increment</button>
         <p>Current Count: {counter}</p>
       </>
     </section>
